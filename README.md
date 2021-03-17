@@ -1,4 +1,4 @@
-# GChat-GroupChatSystem-
+# GChat-GroupChatRoom-
 GChat is a group chatting system which enables people to get connected with each other. The project is created using Python using socket use pycharm is ide 
 
 # Introduction
