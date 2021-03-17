@@ -1,5 +1,5 @@
 # GChat-GroupChatSystem-
-GChat is a group chatting system which enables people to get connected with each other. The project is created using Python using socket
+GChat is a group chatting system which enables people to get connected with each other. The project is created using Python using socket use pycharm is ide 
 
 # Introduction
 Python is a great programming language for computer networking. It allows us to create solid applications very fast and easily. In this tutorial, we are going to implement a fully-functioning TCP chat. We will have one server that hosts the chat and multiple clients that connect to it and communicate with each other. At the end, you can also add custom features like chat rooms, commands, roles etc., if you want to.
